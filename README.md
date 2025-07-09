@@ -7,7 +7,7 @@ Bài tập thực hành xử lý ảnh với OpenCV và Python, bao gồm các k
 ```
 XLA_lab4/
 ├── README.md
-├── langbiang_simple.ipynb    # Notebook chính với 4 bài tập
+├── baitaplab4.ipynb    # Notebook chính với 4 bài tập
 ├── exercise/                 # Thư mục chứa ảnh đầu vào
 │   └── dalat.jpg
 └── output/                   # Ảnh kết quả
@@ -65,7 +65,7 @@ pip install opencv-python numpy matplotlib
 ### Chạy chương trình
 1. Mở Jupyter Notebook:
 ```bash
-jupyter notebook langbiang_simple.ipynb
+jupyter notebook baitaplab4.ipynb
 ```
 
 2. Chạy từng cell theo thứ tự
@@ -87,4 +87,4 @@ jupyter notebook langbiang_simple.ipynb
 - **Matplotlib**: Hiển thị kết quả
 
 ## Tác giả
-Bài tập Lab 4 - Xử lý ảnh số
+Lê Nguyễn Vũ Hoàng - 2174802010606
